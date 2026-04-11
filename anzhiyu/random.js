@@ -1,3 +1,3 @@
-var posts=["2026/04/09/hello-world/"];function toRandomPost(){
+var posts=["2026/04/11/clash代理/","2026/04/09/hello-world/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
